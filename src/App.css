@@ -6,6 +6,30 @@
   height: 40vmin;
   pointer-events: none;
 }
+.imagenes {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  right: 8em;
+}
+.Container {
+  margin-left: 10em;
+}
+.logotipo {
+  width: 100px;
+  height: 80px;
+}
+.container-detalle {
+  width: 800px;
+  height: 500px;
+  border: 1px solid black;
+  position: relative;
+  top: 5em;
+  left: 5em;
+}
+Link {
+  text-decoration: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
